@@ -27,9 +27,9 @@
 </div>
 
 <br>
-<ul>
-  <li>2022.01.27 programmers 코테연습 올리기 시작<li>
-<ul>
+<br>
+  2022.01.27 programmers 코테연습 올리기 시작
+<br>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daenini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
