@@ -24,7 +24,7 @@
 
 <h3 align="center">🛠 Tools</h3>
 <div align="center">
-<img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white/>
+<img src ="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white/>
 </div>
 <br>
 <hr>
