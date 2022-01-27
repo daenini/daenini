@@ -1,4 +1,7 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Daeni&fontSize=90)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Daeni&fontSize=50&animation=twinkling)
+
+<h2 align="center">Skills</h2>
+
 <h3 align="center"> 🦾 Back-End</h3>
 <div align="center">
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
@@ -6,7 +9,7 @@
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </div>
 
-<h3 align="center"> 💪 Front-End/h3>
+<h3 align="center"> 💪 Front-End </h3>
 <div align="center">
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
@@ -21,8 +24,8 @@
 
 <h3 align="center">🛠 Tools</h3>
 <div align="center">
-</div>
 <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white/>
+</div>
 <br>
 <hr>
 
