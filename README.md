@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Daeni&fontSize=50&animation=twinkling)
+![Cylinder](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&text=Daeni&fontSize=50&animation=twinkling)
 
 <h2 align="center">Skills</h2>
 
