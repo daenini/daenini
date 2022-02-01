@@ -29,6 +29,7 @@
 <br>
 <br>
   2022.01.27 programmers 코테연습 올리기 시작
+  2022.01.31 vanilla JS 
 <br>
 <hr>
 
