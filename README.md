@@ -27,10 +27,14 @@
 </div>
 
 <br>
-<br>
-  2022.01.27 programmers 코테연습 올리기 시작
-<br>
-<br>2022.01.31 vanilla JS  공부 시작</br>
+<ul>
+  <li>
+    2022.01.27 programmers 코테연습 올리기 시작
+  </li>
+  <li>
+    2022.01.31 vanilla JS  공부 시작
+  </li>
+ </ul>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daenini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
