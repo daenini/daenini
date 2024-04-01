@@ -6,7 +6,6 @@
 <div align="center">
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </div>
 
 <h3 align="center"> 💪 Front-End</h3>
@@ -18,9 +17,17 @@
 <img alt="Dart" src ="https://img.shields.io/badge/Dart-0769AD.svg?&style=flat&logo=Dart&logoColor=white"/>
 </div>
 
+<h3 align="center"> 📦 DB </h3>
+<div align="center">
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img alt="Tibero" src="https://img.shields.io/badge/tibero-003545?style=flat-square&logo=tibero&logoColor=white"/>
+</div>
+
 <h3 align="center"> 👊🏻 Cowork Tools</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-E34F26?style=flat&logo=git&logoColor=white">
 </div>
 
 <h3 align="center"> 🛠 Tools</h3>
